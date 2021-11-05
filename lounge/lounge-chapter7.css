@@ -1,0 +1,27 @@
+/* beautiful styling */
+body {
+  font-family: sans-serif;
+}
+#boo {
+  color: blue;
+}
+.description {
+  /*background-color: orange;*/
+  color: red;
+}
+p {
+  color: maroon;
+  /*background-color: red;
+  border: 5px solid gray;*/
+}
+h1,
+h2 {
+  color: grey;
+}
+em {
+  font-family: serif;
+}
+img {
+  /*width: 1000px;
+  height: auto;*/
+}

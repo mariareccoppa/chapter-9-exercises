@@ -1,0 +1,33 @@
+body {
+  font-family: "Verdana, Helvectia, Arial, Sans-serif";
+  font-size: small;
+  line-height: 1.6em;
+}
+
+h1,
+h2 {
+  color: #007e7e;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 130%;
+}
+#guarantee {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 1.9;
+  padding: 25px;
+  margin: 30px;
+  border: thin white dashed;
+  background-color: #007e7e;
+}
+
+@media print {
+  body {
+    font-family: webdings, fantasy;
+  }
+}
